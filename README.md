@@ -1,2 +1,2 @@
 # alien_invasion
-基于Py_game 的外星人游戏
+Python practice project-a python-based alien game
